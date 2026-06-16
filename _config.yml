@@ -50,11 +50,11 @@ header_pages:
 # [추가된 부분] 언어별 사이트 타이틀 및 설명 설정
 # ----------------------------------------------------------------
 titles:
-  ko: "Smiles Life - 노마드 머니"
-  en: "Smiles Life - Nomad Money"
-  ja: "Smiles Life - ノマドマネー"
-  zh-TW: "Smiles Life - 游牧者资金"
-  es: "Smiles Life - Dinero Nómada"
+  ko: "노마드 머니"
+  en: "Nomad Money"
+  ja: "ノマドマネー"
+  zh-TW: "游牧者资金"
+  es: "Dinero Nómada"
 
 descriptions:
   ko: "Smiles Life의 장소에 구애받지 않는 자동화 수익 창출 방법"
